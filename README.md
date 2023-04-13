@@ -1,24 +1,11 @@
-# vue3-template
+# Vue 3 Template
 
-## Project setup
-```
-npm install
-```
+這是一個 Vue 3 的模板專案，用於快速起始新的專案用
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 參考資料
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Dockerize Vue.js App](https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
+- [建立一個項目](https://cli.vuejs.org/zh/guide/creating-a-project.html)
+- [How to debug a VueJS 3 Typescript project with VS Code and Chrome using SourceMaps (with Vue CLI and Webpack)?](https://stackoverflow.com/a/71772810)
+- [Vuejs 404 resources not found](https://stackoverflow.com/a/59346065)
+- [簡介](https://cn.vuejs.org/guide/introduction.html)
